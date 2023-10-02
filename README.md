@@ -9,7 +9,7 @@ The article explains how to use the MUI library in React.js by building a respon
 
 <br />
 
-## How to use it 
+## How to use it                          
        
 - Install `NodejS` - version 14.x or higher 
 - Install dependencies via `yarn`

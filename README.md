@@ -5,7 +5,7 @@ Sample Code for the blog article [React MUI Components - Learn by Coding](https:
 The article explains how to use the MUI library in React.js by building a responsive website. The website will be built with MUI components only, no HTML element will be used.
 
 - 👉 [React MUI Landing Page](https://react-mui-landing-page.appseed-srv1.com/) - LIVE Demo
-- 👉 [React Apps](https://appseed.us/apps/react) - index provided by `AppSeed`
+- 👉 [React Apps](https://appseed.us/apps/react) - index provided
 
 <br />
 
